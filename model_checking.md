@@ -81,6 +81,9 @@ https://gihyo.jp/dev/serial/01/tech_station/0003
 
 * 参考： http://www.kurims.kyoto-u.ac.jp/~cs/lecture2009/lecture09ModelChecking.pdf
 
+
+# 次回取り組みたいこと
+
 ## 命題論理
 
 * 参考： http://www2.yukawa.kyoto-u.ac.jp/~kanehisa.takasaki/edu/logic/logic1.html
